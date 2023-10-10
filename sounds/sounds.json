@@ -1,28 +1,28 @@
 {
-    "camille_batelang_start": {
+    "camille.batelang.start": {
       "sounds": [
-        "beam_start"
+        "beam.start"
       ],
       "category": "player"
     },
 
-    "camille_batelang_stop": {
+    "camille.batelang.stop": {
       "sounds": [
-        "beam_stop"
+        "beam.stop"
       ],
       "category": "player"
     },
     
-    "camille_batelang_eyeson": {
+    "camille.batelang.eyeson": {
       "sounds": [
-        "eyes_start"
+        "eyes.start"
       ],
       "category": "player"
     },
 
-    "camille_batelang_eyesoff": {
+    "camille.batelang.eyesoff": {
       "sounds": [
-        "eyes_stop"
+        "eyes.stop"
       ],
       "category": "player"
     },
@@ -33,9 +33,9 @@
       "category": "player"
     },
 
-    "camille_batelang_loop": {
+    "camille.batelang.loop": {
       "sounds": [
-        "beam_loop"
+        "beam.loop"
       ],
       "category": "player"
     }

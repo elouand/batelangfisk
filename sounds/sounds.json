@@ -1,0 +1,42 @@
+{
+    "camille_batelang_start": {
+      "sounds": [
+        "suit/beam_start"
+      ],
+      "category": "player"
+    },
+
+    "camille_batelang_stop": {
+      "sounds": [
+        "suit/beam_stop"
+      ],
+      "category": "player"
+    },
+    
+    "camille_batelang_eyeson": {
+      "sounds": [
+        "suit/eyes_start"
+      ],
+      "category": "player"
+    },
+
+    "camille_batelang_eyesoff": {
+      "sounds": [
+        "suit/eyes_stop"
+      ],
+      "category": "player"
+    },
+    "spit": {
+      "sounds": [
+        "suit/spit"
+      ],
+      "category": "player"
+    },
+
+    "batelang:camille_batelang_loop": {
+      "sounds": [
+        "suit/beam_loop"
+      ],
+      "category": "player"
+    }
+}
